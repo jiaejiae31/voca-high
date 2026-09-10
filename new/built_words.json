@@ -1,0 +1,828 @@
+[
+  {
+    "id": "w-mid-1",
+    "bookId": "middle_800",
+    "word": "cherish",
+    "meaning": "소중히 여기다, 아끼다",
+    "stage": 0
+  },
+  {
+    "id": "w-mid-2",
+    "bookId": "middle_800",
+    "word": "courage",
+    "meaning": "용기, 담력",
+    "stage": 0
+  },
+  {
+    "id": "w-mid-3",
+    "bookId": "middle_800",
+    "word": "curious",
+    "meaning": "호기심이 많은, 신기한",
+    "stage": 0
+  },
+  {
+    "id": "w-mid-4",
+    "bookId": "middle_800",
+    "word": "genuine",
+    "meaning": "진짜의, 순수한, 진실한",
+    "stage": 0
+  },
+  {
+    "id": "w-mid-5",
+    "bookId": "middle_800",
+    "word": "gratitude",
+    "meaning": "감사, 고마움",
+    "stage": 0
+  },
+  {
+    "id": "w-mid-6",
+    "bookId": "middle_800",
+    "word": "inspire",
+    "meaning": "영감을 주다, 고무시키다",
+    "stage": 0
+  },
+  {
+    "id": "w-high-1",
+    "bookId": "high_1200",
+    "word": "persistent",
+    "meaning": "끈기 있는, 끈질긴, 지속적인",
+    "stage": 0
+  },
+  {
+    "id": "w-high-2",
+    "bookId": "high_1200",
+    "word": "resilient",
+    "meaning": "회복력 있는, 곧 기운을 차리는",
+    "stage": 0
+  },
+  {
+    "id": "w-high-3",
+    "bookId": "high_1200",
+    "word": "profound",
+    "meaning": "심오한, 깊은, 엄청난",
+    "stage": 0
+  },
+  {
+    "id": "w-high-4",
+    "bookId": "high_1200",
+    "word": "contemplate",
+    "meaning": "심사숙고하다, 깊이 생각하다",
+    "stage": 0
+  },
+  {
+    "id": "w-high-5",
+    "bookId": "high_1200",
+    "word": "ambiguous",
+    "meaning": "모호한, 여러 의미로 해석되는",
+    "stage": 0
+  },
+  {
+    "id": "w-high-6",
+    "bookId": "high_1200",
+    "word": "empathy",
+    "meaning": "공감, 감정이입",
+    "stage": 0
+  },
+  {
+    "id": "w-toeic-1",
+    "bookId": "toeic_1000",
+    "word": "feasible",
+    "meaning": "실현 가능한, 그럴싸한",
+    "stage": 0
+  },
+  {
+    "id": "w-toeic-2",
+    "bookId": "toeic_1000",
+    "word": "reimburse",
+    "meaning": "환급하다, 변제하다, 배상하다",
+    "stage": 0
+  },
+  {
+    "id": "w-toeic-3",
+    "bookId": "toeic_1000",
+    "word": "unprecedented",
+    "meaning": "전례 없는, 유례없는",
+    "stage": 0
+  },
+  {
+    "id": "w-toeic-4",
+    "bookId": "toeic_1000",
+    "word": "substantiate",
+    "meaning": "입증하다, 실증하다",
+    "stage": 0
+  },
+  {
+    "id": "w-toeic-5",
+    "bookId": "toeic_1000",
+    "word": "tentative",
+    "meaning": "잠정적인, 시험적인, 임시의",
+    "stage": 0
+  },
+  {
+    "id": "w-toeic-6",
+    "bookId": "toeic_1000",
+    "word": "streamline",
+    "meaning": "간소화하다, 능률화하다",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-1",
+    "bookId": "voca_3000",
+    "word": "apple",
+    "meaning": "사과",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-2",
+    "bookId": "voca_3000",
+    "word": "banana",
+    "meaning": "바나나",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-3",
+    "bookId": "voca_3000",
+    "word": "book",
+    "meaning": "책",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-4",
+    "bookId": "voca_3000",
+    "word": "desk",
+    "meaning": "책상",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-5",
+    "bookId": "voca_3000",
+    "word": "school",
+    "meaning": "학교",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-6",
+    "bookId": "voca_3000",
+    "word": "teacher",
+    "meaning": "선생님",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-7",
+    "bookId": "voca_3000",
+    "word": "student",
+    "meaning": "학생",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-8",
+    "bookId": "voca_3000",
+    "word": "friend",
+    "meaning": "친구",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-9",
+    "bookId": "voca_3000",
+    "word": "water",
+    "meaning": "물",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-10",
+    "bookId": "voca_3000",
+    "word": "family",
+    "meaning": "가족",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-11",
+    "bookId": "voca_3000",
+    "word": "house",
+    "meaning": "집",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-12",
+    "bookId": "voca_3000",
+    "word": "car",
+    "meaning": "자동차",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-13",
+    "bookId": "voca_3000",
+    "word": "tree",
+    "meaning": "나무",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-14",
+    "bookId": "voca_3000",
+    "word": "flower",
+    "meaning": "꽃",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-15",
+    "bookId": "voca_3000",
+    "word": "sun",
+    "meaning": "태양",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-16",
+    "bookId": "voca_3000",
+    "word": "moon",
+    "meaning": "달",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-17",
+    "bookId": "voca_3000",
+    "word": "star",
+    "meaning": "별",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-18",
+    "bookId": "voca_3000",
+    "word": "sky",
+    "meaning": "하늘",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-19",
+    "bookId": "voca_3000",
+    "word": "rain",
+    "meaning": "비",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-20",
+    "bookId": "voca_3000",
+    "word": "wind",
+    "meaning": "바람",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-21",
+    "bookId": "voca_3000",
+    "word": "music",
+    "meaning": "음악",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-22",
+    "bookId": "voca_3000",
+    "word": "food",
+    "meaning": "음식",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-23",
+    "bookId": "voca_3000",
+    "word": "bread",
+    "meaning": "빵",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-24",
+    "bookId": "voca_3000",
+    "word": "milk",
+    "meaning": "우유",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-25",
+    "bookId": "voca_3000",
+    "word": "coffee",
+    "meaning": "커피",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-26",
+    "bookId": "voca_3000",
+    "word": "time",
+    "meaning": "시간",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-27",
+    "bookId": "voca_3000",
+    "word": "day",
+    "meaning": "날, 하루",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-28",
+    "bookId": "voca_3000",
+    "word": "night",
+    "meaning": "밤",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-29",
+    "bookId": "voca_3000",
+    "word": "morning",
+    "meaning": "아침",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-30",
+    "bookId": "voca_3000",
+    "word": "dream",
+    "meaning": "꿈",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-31",
+    "bookId": "voca_3000",
+    "word": "hope",
+    "meaning": "희망",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-32",
+    "bookId": "voca_3000",
+    "word": "love",
+    "meaning": "사랑",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-33",
+    "bookId": "voca_3000",
+    "word": "peace",
+    "meaning": "평화",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-34",
+    "bookId": "voca_3000",
+    "word": "smile",
+    "meaning": "미소",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-35",
+    "bookId": "voca_3000",
+    "word": "heart",
+    "meaning": "마음, 심장",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-36",
+    "bookId": "voca_3000",
+    "word": "light",
+    "meaning": "빛",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-37",
+    "bookId": "voca_3000",
+    "word": "shadow",
+    "meaning": "그림자",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-38",
+    "bookId": "voca_3000",
+    "word": "world",
+    "meaning": "세상, 세계",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-39",
+    "bookId": "voca_3000",
+    "word": "earth",
+    "meaning": "지구, 땅",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-40",
+    "bookId": "voca_3000",
+    "word": "ocean",
+    "meaning": "대양, 바다",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-41",
+    "bookId": "voca_3000",
+    "word": "mountain",
+    "meaning": "산",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-42",
+    "bookId": "voca_3000",
+    "word": "river",
+    "meaning": "강",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-43",
+    "bookId": "voca_3000",
+    "word": "road",
+    "meaning": "길, 도로",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-44",
+    "bookId": "voca_3000",
+    "word": "city",
+    "meaning": "도시",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-45",
+    "bookId": "voca_3000",
+    "word": "village",
+    "meaning": "마을",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-46",
+    "bookId": "voca_3000",
+    "word": "country",
+    "meaning": "나라, 국가",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-47",
+    "bookId": "voca_3000",
+    "word": "people",
+    "meaning": "사람들",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-48",
+    "bookId": "voca_3000",
+    "word": "child",
+    "meaning": "아이",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-49",
+    "bookId": "voca_3000",
+    "word": "parent",
+    "meaning": "부모",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-50",
+    "bookId": "voca_3000",
+    "word": "animal",
+    "meaning": "동물",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-51",
+    "bookId": "voca_3000",
+    "word": "bird",
+    "meaning": "새",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-52",
+    "bookId": "voca_3000",
+    "word": "dog",
+    "meaning": "개",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-53",
+    "bookId": "voca_3000",
+    "word": "cat",
+    "meaning": "고양이",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-54",
+    "bookId": "voca_3000",
+    "word": "fish",
+    "meaning": "물고기",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-55",
+    "bookId": "voca_3000",
+    "word": "horse",
+    "meaning": "말",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-56",
+    "bookId": "voca_3000",
+    "word": "flower",
+    "meaning": "꽃",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-57",
+    "bookId": "voca_3000",
+    "word": "grass",
+    "meaning": "풀, 잔디",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-58",
+    "bookId": "voca_3000",
+    "word": "forest",
+    "meaning": "숲",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-59",
+    "bookId": "voca_3000",
+    "word": "garden",
+    "meaning": "정원",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-60",
+    "bookId": "voca_3000",
+    "word": "season",
+    "meaning": "계절",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-61",
+    "bookId": "voca_3000",
+    "word": "spring",
+    "meaning": "봄",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-62",
+    "bookId": "voca_3000",
+    "word": "summer",
+    "meaning": "여름",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-63",
+    "bookId": "voca_3000",
+    "word": "autumn",
+    "meaning": "가을",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-64",
+    "bookId": "voca_3000",
+    "word": "winter",
+    "meaning": "겨울",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-65",
+    "bookId": "voca_3000",
+    "word": "weather",
+    "meaning": "날씨",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-66",
+    "bookId": "voca_3000",
+    "word": "cloud",
+    "meaning": "구름",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-67",
+    "bookId": "voca_3000",
+    "word": "snow",
+    "meaning": "눈",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-68",
+    "bookId": "voca_3000",
+    "word": "ice",
+    "meaning": "얼음",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-69",
+    "bookId": "voca_3000",
+    "word": "fire",
+    "meaning": "불",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-70",
+    "bookId": "voca_3000",
+    "word": "air",
+    "meaning": "공기",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-71",
+    "bookId": "voca_3000",
+    "word": "energy",
+    "meaning": "에너지",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-72",
+    "bookId": "voca_3000",
+    "word": "power",
+    "meaning": "힘, 권력",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-73",
+    "bookId": "voca_3000",
+    "word": "life",
+    "meaning": "삶, 생명",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-74",
+    "bookId": "voca_3000",
+    "word": "nature",
+    "meaning": "자연",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-75",
+    "bookId": "voca_3000",
+    "word": "health",
+    "meaning": "건강",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-76",
+    "bookId": "voca_3000",
+    "word": "body",
+    "meaning": "몸, 신체",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-77",
+    "bookId": "voca_3000",
+    "word": "eye",
+    "meaning": "눈",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-78",
+    "bookId": "voca_3000",
+    "word": "hand",
+    "meaning": "손",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-79",
+    "bookId": "voca_3000",
+    "word": "foot",
+    "meaning": "발",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-80",
+    "bookId": "voca_3000",
+    "word": "mind",
+    "meaning": "마음, 정신",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-81",
+    "bookId": "voca_3000",
+    "word": "thought",
+    "meaning": "생각",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-82",
+    "bookId": "voca_3000",
+    "word": "idea",
+    "meaning": "아이디어, 발상",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-83",
+    "bookId": "voca_3000",
+    "word": "story",
+    "meaning": "이야기",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-84",
+    "bookId": "voca_3000",
+    "word": "history",
+    "meaning": "역사",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-85",
+    "bookId": "voca_3000",
+    "word": "future",
+    "meaning": "미래",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-86",
+    "bookId": "voca_3000",
+    "word": "present",
+    "meaning": "현재, 선물",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-87",
+    "bookId": "voca_3000",
+    "word": "memory",
+    "meaning": "기억, 추억",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-88",
+    "bookId": "voca_3000",
+    "word": "truth",
+    "meaning": "진실",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-89",
+    "bookId": "voca_3000",
+    "word": "fact",
+    "meaning": "사실",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-90",
+    "bookId": "voca_3000",
+    "word": "problem",
+    "meaning": "문제",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-91",
+    "bookId": "voca_3000",
+    "word": "solution",
+    "meaning": "해결책",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-92",
+    "bookId": "voca_3000",
+    "word": "answer",
+    "meaning": "정답",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-93",
+    "bookId": "voca_3000",
+    "word": "question",
+    "meaning": "질문",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-94",
+    "bookId": "voca_3000",
+    "word": "voice",
+    "meaning": "목소리",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-95",
+    "bookId": "voca_3000",
+    "word": "sound",
+    "meaning": "소리",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-96",
+    "bookId": "voca_3000",
+    "word": "color",
+    "meaning": "색깔",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-97",
+    "bookId": "voca_3000",
+    "word": "picture",
+    "meaning": "그림, 사진",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-98",
+    "bookId": "voca_3000",
+    "word": "art",
+    "meaning": "예술",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-99",
+    "bookId": "voca_3000",
+    "word": "science",
+    "meaning": "과학",
+    "stage": 0
+  },
+  {
+    "id": "w-voca-100",
+    "bookId": "voca_3000",
+    "word": "nature",
+    "meaning": "자연",
+    "stage": 0
+  }
+]
